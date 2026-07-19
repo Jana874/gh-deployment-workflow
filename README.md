@@ -2,7 +2,7 @@
 
 This project demonstrates the basics of **Continuous Integration (CI)** and **Continuous Deployment (CD)** using GitHub Actions.
 
-A simple workflow is created to automatically deploy a static website to **GitHub Pages** whenever changes are pushed to the repository.
+A simple workflow is created to automatically deploy a static website to **GitHub Pages** whenever index.html file is changed.
 
 ## Technologies
 
